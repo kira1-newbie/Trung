@@ -1,12 +1,12 @@
+import java.​lang.​Throwable;
 // xu ly ngoai le (try catch)
 public class bai13 {
     public static void main(String[] args)
     {
-        int a=2,b=3;
+        int a=2;
         // thu ctrinh
         try
         {
-            int d=b/a;
             int c=a/0;
             System.out.print(c);            
         }

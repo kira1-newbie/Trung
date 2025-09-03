@@ -14,5 +14,6 @@ public class bai7{
                 System.out.println("a==b "+a);
             else 
                 System.out.println("a be hon b "+b);
-    }
+        sc.close();
+            }
 }

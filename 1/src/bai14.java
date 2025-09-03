@@ -19,5 +19,6 @@ public class bai14{
             System.out.println("Khong phai la so nguyen to");
         else 
             System.out.println("La so nguyen to "+a);
+              sc.close();
     }
 }

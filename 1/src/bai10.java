@@ -15,5 +15,6 @@ public class bai10{
             System.out.println(x);
             a--;
         }
+        sc.close();
     }
 }

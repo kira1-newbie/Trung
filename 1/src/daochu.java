@@ -29,5 +29,6 @@ public class daochu {
         String kq1=sorter.sort(s);
         String kq2=sorter.sort(t);
         System.out.println(kq1.equals(kq2));
+        sc.close();
     }
 }

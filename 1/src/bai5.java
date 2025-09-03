@@ -16,5 +16,6 @@ public class bai5 {
         int a = sc.nextInt();
         System.out.println(b);
         System.out.println(a);
+        sc.close();
     }
 }
