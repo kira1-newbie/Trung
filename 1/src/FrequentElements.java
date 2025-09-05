@@ -13,7 +13,7 @@ class array
     int [][] xh(int [][]a,int []b,int k)
     {
         int dem=0;
-        for(int i=0;i<b.length;i++)
+        for(int i=0;i<b.length;i++) 
         {
             int temp=timkiem(a,b,i,dem);
             if (temp!=-1)
